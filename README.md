@@ -3,7 +3,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -11,3 +11,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/HolyC-D4AF37?style=for-the-badge&logo=&logoColor=black" alt="HolyC" />
 </p>
+
+### Languages
+  - **C/C++**: 20'000+ lines across 25 projects
+  - **Python**: 2000+ lines
+  - **C#**: 1000+ lines
+
+<img src="https://komarev.com/ghpvc/?username=eszpa&label=Profile%20views&color=red&style=flat">
