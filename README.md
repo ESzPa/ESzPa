@@ -13,7 +13,8 @@
 </p>
 
 ### Languages
-  - **C/C++**: 20'000+ lines across 25 projects
+  - **C/C++**: 30'000+ lines across 30 projects
+  - **Lua**: 2000+ lines
   - **Python**: 2000+ lines
   - **C#**: 1000+ lines
 
