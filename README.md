@@ -9,13 +9,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/HolyC-D4AF37?style=for-the-badge&logo=&logoColor=black" alt="HolyC" />
 </p>
 
 ### Languages
   - **C/C++**: 30'000+ lines across 30 projects
+  - **Python**: 4000+ lines
   - **Lua**: 2000+ lines
-  - **Python**: 2000+ lines
   - **C#**: 1000+ lines
 
 <img src="https://komarev.com/ghpvc/?username=eszpa&label=Profile%20views&color=red&style=flat">
